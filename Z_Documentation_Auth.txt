@@ -1,0 +1,3 @@
+1. create signup and login system 
+2. login handled by session id stored as cookie
+3. url route work only if user logged in.
